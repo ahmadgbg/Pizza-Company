@@ -29,10 +29,10 @@
     "static/media/vegpizza.a4d08987.png": "/ahmadgbg/Pizza-Company/blob/main/build/static/media/vegpizza.a4d08987.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8da0229a.js",
-    "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.584dda59.chunk.js",
-    "static/css/main.7544c8f6.chunk.css",
-    "static/js/main.a6644c4c.chunk.js"
+    "ahmadgbg/Pizza-Company/blob/main/build/static/js/runtime-main.8da0229a.js",
+    "ahmadgbg/Pizza-Company/blob/main/build/static/css/2.20aa2d7b.chunk.css",
+    "ahmadgbg/Pizza-Company/blob/main/build/static/js/2.584dda59.chunk.js",
+    "ahmadgbg/Pizza-Company/blob/main/build/static/css/main.7544c8f6.chunk.css",
+    "ahmadgbg/Pizza-Company/blob/main/build/static/js/main.a6644c4c.chunk.js"
   ]
 }
