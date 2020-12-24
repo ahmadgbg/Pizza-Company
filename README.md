@@ -13,6 +13,9 @@ You can download NodeJS here: https://nodejs.org/en/
 
 If you want to deploy the application use the following command: npm run build
 
+# DEMO - View the website
+https://ahmadgbg.github.io/Pizza-Company/
+
 
 # Copyright
 Be aware that this project contains copyrighted content and cannot be used for commercial purposes!  
