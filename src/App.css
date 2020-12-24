@@ -1,38 +1,65 @@
-.App {
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+body{background: #000 !important; color:#fff }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+a.nav-link {color:#ccc !important;font-family: 'Calligraffitti', cursive;font-size:22px}
+a.nav-link:hover {color:#fff !important; text-decoration: underline;}
+a {color: #ccc !important}
+
+.border-3 {
+  border-style: solid;
+  border-width:3px !important;
+}
+.dottedLines{border-bottom:1px dotted white; margin-bottom:2px;height:1em;display:block}
+.menuItemName{float:left;clear:both; padding:1px 0.5em;background-color: #000;}
+.price{float:right;padding:1px 0.5em;background-color: #000;}
+.menuTitle{font-family: 'Calligraffitti', cursive;color: #279f27;text-align: center;font-size:40px;border-bottom: 3px solid #279f27;}
+.menuItemTitle{color:#e5d49c}
+.halal{position: absolute;right:5px;top:5px;;width:75px;height:75px;z-index: 1000;}
+
+.background-video{
+
+  height: 100%;
+  width: 100%;
+  float: left;
+  top: 0;
+  padding: 0;
+  position: fixed; /* optional depending on what you want to do in your app */
+  z-index: -1;
+  
   }
+.navbar-toggler{color:white !important}
+.navbar-brand {
+  margin:0 auto;
 }
+.page {
+  width: 300px;
+  height: 100%;
+  min-height: 5em;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 5em;
+  padding: 2em;
+  z-index: 15000;
+}
+.example-enter {
+  opacity: 0.01;
+}
+.example-enter.example-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+.example-leave {
+  opacity: 1;
+}
+.example-leave.example-leave-active {
+  opacity: 0.01;
+  transition: opacity 300ms ease-in;
+}
+.previousPage{position: sticky;top:50%;float:left;z-index: 100;margin-left:-16px}
+.nextPage{position: sticky;top:50%;float:right;z-index: 100;margin-right:-15px}
+.call-now-btn{font-family: Arial, Helvetica, sans-serif !important; font-size: 16px !important;}
+.call-now-btn:hover{text-decoration: none !important;}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+.dropdown-menu{background-color: rgb(51, 51, 51) !important;}
+.dropdown-item:hover, .dropdown-item:focus, .dropdown-item:active {background-color: rgb(88, 88, 88) !important; text-decoration: underline !important;}

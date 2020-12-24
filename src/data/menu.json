@@ -1,0 +1,63 @@
+[{"pizzor": [
+  {"id": 1, "name": "Margherita", "price": 49, "ingrediens": "Ost, tomatsås"},
+  {"id": 2, "name": "Funghi", "price": 59, "ingrediens": "Champinjoner"},
+  {"id": 3, "name": "Vesuvio", "price": 59, "ingrediens": "Skinka"},
+  {"id": 4, "name": "Capriccoisa", "price": 59, "ingrediens": "Champinjoner, skinka"},
+  {"id": 5, "name": "Hawaii", "price": 59, "ingrediens": "Skinka, ananas"},
+  {"id": 6, "name": "Marinara", "price": 59, "ingrediens": "Räkor, musslor"},
+  {"id": 7, "name": "Sorrento", "price": 59, "ingrediens": "Skinka, tonfisk"},
+  {"id": 8, "name": "Aten", "price": 59, "ingrediens": "Räkor, tonfisk"},
+  {"id": 9, "name": "Vegetariana", "price": 59, "ingrediens": "Lök, champinjoner, paprika, oliver, färska tomater"},
+  {"id": 10, "name": "Quattro Stagioni", "price": 59, "ingrediens": "Skinka, räkor, champinjoner, musslor"},
+  {"id": 11, "name": "Orientale", "price": 59, "ingrediens": "Köttfärs, lök"},
+  {"id": 12, "name": "Mexicana", "price": 59, "ingrediens": "Köttfärs, lök, paprika, vitlök, piri piri"},
+  {"id": 13, "name": "Salami", "price": 59, "ingrediens": "Köttfärs, feferoni, oliver, salami"},
+  {"id": 14, "name": "Mafiosa", "price": 59, "ingrediens": "Köttfärs, skinka, paprika"},
+  {"id": 15, "name": "La feta", "price": 59, "ingrediens": "Fetaost, färska tomater, oliver, lök"}
+  ],
+  "inbakade pizzor": [
+    {"id": 16, "name": "Calzone", "price": 59, "ingrediens": "Skinka"},
+    {"id": 17, "name": "Calzone special", "price": 69, "ingrediens": "Skinka, räkor, champinjoner"},
+    {"id": 18, "name": "Ciao ciao", "price": 74, "ingrediens": "Oxfilé, lök, champinjoner, vitlök"}
+    ],
+  "kebab pizzor": [
+    {"id": 19, "name": "Kebab pizza", "price": 74, "ingrediens": "Kebabkött, färska tomater, lök, sås"},
+    {"id": 20, "name": "Lövgärdet", "price": 74, "ingrediens": "Kebabkött, isbergssallad, färska tomater, gurka, feferoni, sås"},
+    {"id": 21, "name": "Viking båt (halvinbakad)", "price": 74, "ingrediens": "Kebabkött, feferoni, sås, lök, vitlök"}
+    ],
+  "kyckling pizzor": [
+    {"id": 22, "name": "Kyckling pizza", "price": 74, "ingrediens": "Kyckling, sås"},
+    {"id": 23, "name": "Kyckling pizza special", "price": 74, "ingrediens": "Kyckling, isbergssallad, färska tomater, gurka, lök, feferoni, sås"},
+    {"id": 24, "name": "Kyckling pizza", "price": 74, "ingrediens": "Kyckling, banan, ananas, currysås"}
+    ],
+  "oxfilé pizzor": [
+    {"id": 25, "name": "Reale", "price": 74, "ingrediens": "Oxfilé, ägg, bearnaisesås, sås"},
+    {"id": 26, "name": "Husets special", "price": 74, "ingrediens": "Oxfilé, champinjoner, lök, piri piri"},
+    {"id": 27, "name": "Amigo", "price": 74, "ingrediens": "Oxfilé, paprika, lök, stark krydda, räkor"}
+    ],
+  "falafel rätter": [
+    {"id": 28, "name": "Falafel tallrik", "price": 59, "ingrediens": "Falafel, isbergssallad, lök, tomat, feferoni, pommes"},
+    {"id": 29, "name": "Falafel (Liba) rulle", "price": 35, "ingrediens": "Falafel, isbergssallad, tomat, inlagd gurka, feferoni, sås"},
+    {"id": 30, "name": "Falafel (Super) tallrik", "price": 55, "ingrediens": "Falafel, isbergssallad, tomat, inlagd gurka, feferoni, sås"}
+    ],
+  "shawarma rätter": [
+    {"id": 31, "name": "Arabisk shawarma tallrik", "price": 75, "ingrediens": "Shawarma rulle, pommes, inlagd gurka, vitlökskräm, coleslaw sallad"},
+    {"id": 32, "name": "Shawarma tallrik", "price": 64, "ingrediens": "Kyckling shawarma, isbergssallad, lök, tomat, feferoni, pommes eller ris, sås"},
+    {"id": 33, "name": "Kyckling shawarma (Liba) rulle", "price": 40, "ingrediens": "Kyckling shawarma, isbergssallad, tomat, inlagd gurka, vitlökssås"},
+    {"id": 34, "name": "Kyckling shawarma (Super) rulle", "price": 64, "ingrediens": "Kyckling shawarma, isbergssallad, tomat, inlagd gurka, vitlökssås"},
+    {"id": 35, "name": "Kebab tallrik", "price": 64, "ingrediens": "Kebabkött, isbergssallad, lök, tomat, feferoni, pommes eller ris, sås"},
+    {"id": 36, "name": "Kebab (Liba) rulle", "price": 40, "ingrediens": "Kebabkött, lök, tomat, isbergssallad, sås"},
+    {"id": 37, "name": "Kebab (Super) rulle", "price": 64, "ingrediens": "Kebabkött, lök, tomat, isbergssallad, sås"}
+    ],
+  "hamburgare": [
+    {"id": 38, "name": "Hamburgare 90g", "price": 35, "ingrediens": " "},
+    {"id": 39, "name": "Hamburgare 150g", "price": 45, "ingrediens": " "},
+    {"id": 40, "name": "Hamburgare 90g", "price": 49, "ingrediens": "Med pommes"},
+    {"id": 41, "name": "Hamburgare 150g", "price": 59, "ingrediens": "Med pommes"}
+    ],
+  "sallader": [
+    {"id": 42, "name": "Kababsallad", "price": 55, "ingrediens": "Kababkött, isbergssallad, lök, tomat, gurka, feferoni"},
+    {"id": 43, "name": "Kycklingsallad", "price": 55, "ingrediens": "Kyckling, isbergssallad, tomat, majs, ananas, paprika, gurka"},
+    {"id": 44, "name": "Tonfisksallad", "price": 55, "ingrediens": "Tonfisk, isbergssallad, tomat, majs, gurka, citron, lök"}
+    ]
+}]
