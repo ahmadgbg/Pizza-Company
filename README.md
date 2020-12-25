@@ -6,6 +6,14 @@ Website for a pizza company created using ReactJS
 You need to have NodeJS installed to be able to run or build ReactJS application  
 You can download NodeJS here: https://nodejs.org/en/  
 
+# ReactJS dependencies used
+* react-fontawesome  
+* react-swipeable-routes
+* react-router
+* react-router-dom
+* react-bootstrap
+
+
 # How to run
 1. Download and extract folder to a folder in your hard drive.
 2. Open Terminal and navigate to that folder
